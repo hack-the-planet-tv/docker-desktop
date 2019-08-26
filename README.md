@@ -20,6 +20,10 @@ desktop with a VNC client of your choice and the password on port 5901 (default 
 
 ![](doc/temporarydesktop.png)
 
+This will result in this:
+
+![](doc/vncdesktop.png)
+
 ## advanced
 
 Extract the root-home.tar.gz folder to a directory of your choice. Start the container alike the docker-desktop-temporary.sh script
